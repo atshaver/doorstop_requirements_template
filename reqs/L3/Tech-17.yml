@@ -1,0 +1,16 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- SCI-12: f024569beac892250802e2e048b5d2a9
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 51a01d7f6d883bf2218fc252265d3d51
+short name: HardSwitch
+text: |
+  The system shall have an independent hard power switch that can be locked by
+  workers.
+verification plan: ''

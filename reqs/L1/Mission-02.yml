@@ -7,8 +7,8 @@ mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: 79070034b1a1744bace885529089f2cc
-short name: Constraints
+reviewed: a5cc87db67e3394f7c8578f47f231821
+short name: Downlink
 text: |
-  Mission level requirement B
+  The system shall downlink data from satellites.
 verification plan: ''

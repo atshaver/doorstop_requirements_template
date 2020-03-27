@@ -8,8 +8,8 @@ mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: f999ac83aaf49e1894bcc4a70bbfc0b9
-short name: TrackingAcc
+reviewed: a3424ec05bc647921bc79d70555b946d
+short name: BlindPoint
 text: |
-  The system shall maintain a tracking accuracy of 5 arcsec.
+  The system shall maintain a blind pointing accuracy of 4-10 arcsec.
 verification plan: ''

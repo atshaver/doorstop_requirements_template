@@ -1,0 +1,16 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- SCI-13: 6f928d1cd30fa6e8057eb52be64ecbbc
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 74a819df886596b1aaacf8e291c923c7
+short name: PointingRun
+text: |
+  The system shall run an automated, seasonal "pointing run" to make pointing
+  corrections and calibrate instrument.
+verification plan: ''

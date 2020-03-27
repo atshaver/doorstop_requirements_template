@@ -1,0 +1,16 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- SCI-10: c7e895b87e759e4120a8d803cdb3c9ff
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 1ab26b95e93704a3542966df69bbccfe
+short name: OscDetect
+text: |
+  The system shall have soft servo oscillation detection to avoid motion that
+  excites resonant frequencies.
+verification plan: ''

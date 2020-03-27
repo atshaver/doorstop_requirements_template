@@ -1,20 +1,206 @@
-Instrument Alpha 1 Tech-1 
-=========================
+1 Tech-1 
+========
 
-Technical instrument requirement Alpha
+*Two-Line*
+
+The system shall accept coordinates in the two-line element format.
+
+*Parent links:*   [SCI-08](L2.markdown#1-sci-08-) 
+
+1 Tech-2 
+========
+
+*XYZCoord*
+
+The system shall accept coordinates in the XYZ Coordinate format.
+
+*Parent links:*   [SCI-08](L2.markdown#1-sci-08-) 
+
+1 Tech-3 
+========
+
+*TrackingAcc*
+
+The system shall maintain a tracking accuracy of 5 arcsec.
+
+*Parent links:*   [SCI-06](L2.markdown#1-sci-06-) 
+
+1 Tech-4 
+========
+
+*BlindPoint*
+
+The system shall maintain a blind pointing accuracy of 4-10 arcsec.
+
+*Parent links:*   [SCI-06](L2.markdown#1-sci-06-) 
+
+1 Tech-5 
+========
+
+*LockAntenna*
+
+The system shall have a mechanism to lock position of antenna when
+desired coordinates found.
+
+*Parent links:*   [SCI-06](L2.markdown#1-sci-06-) 
+
+1 Tech-6 
+========
+
+*Cooler*
+
+The system shall use a helium cooler to cool 1 and 3 mm receivers.
+
+*Parent links:*   [SCI-07](L2.markdown#1-sci-07-) 
+
+1 Tech-7 
+========
+
+*Receiver*
+
+The system shall use an appropriate receiver for 10 GHz observation.
 
 *Parent links:*   [SCI-01](L2.markdown#1-sci-01-) 
 
-Instrument Beta 1 Tech-2 
-========================
+1 Tech-8 
+========
 
-Technical instrument requirement Beta
+*Outreach*
 
-*Parent links:*   [SCI-02](L2.markdown#1-sci-02-) ,  [SCI-03](L2.markdown#1-sci-03-) 
-
-Instrument Gamma 1 Tech-3 
-=========================
-
-Technical instrument requirement Gamma
+The system shall have capability to attach receiver for outreach
+purposes.
 
 *Parent links:*   [SCI-02](L2.markdown#1-sci-02-) 
+
+1 Tech-9 
+========
+
+*Mechanismfor80*
+
+The system shall have a driving mechanism to point the antenna up to 80
+deg elevation.
+
+*Parent links:*   [SCI-03](L2.markdown#1-sci-03-) 
+
+1 Tech-10 
+=========
+
+*Edit*
+
+Not sure what to put here. Want to expand on all tech reqs stemming from
+SCI-04.
+
+*Parent links:*   [SCI-04](L2.markdown#1-sci-04-) 
+
+1 Tech-11 
+=========
+
+*DetectDoor*
+
+The system shall have a mechanism to detect open door.
+
+*Parent links:*   [SCI-05](L2.markdown#1-sci-05-) 
+
+1 Tech-12 
+=========
+
+*LockDoor*
+
+The system shall have a mechanism to lock door position.
+
+*Parent links:*   [SCI-05](L2.markdown#1-sci-05-) 
+
+1 Tech-13 
+=========
+
+*40Micron*
+
+The system shall contain 40 micron RMS reflector surface accuracy.
+
+*Parent links:*   [SCI-09](L2.markdown#1-sci-09-) 
+
+1 Tech-14 
+=========
+
+*StallSensor*
+
+The system shall utilize stall sensors.
+
+*Parent links:*   [SCI-10](L2.markdown#1-sci-10-) 
+
+1 Tech-15 
+=========
+
+*CurrentLimits*
+
+The system shall have motor current(torque) limits that are
+monitored/enforced by controlling computer.
+
+*Parent links:*   [SCI-10](L2.markdown#1-sci-10-) 
+
+1 Tech-16 
+=========
+
+*OscDetect*
+
+The system shall have soft servo oscillation detection to avoid motion
+that excites resonant frequencies.
+
+*Parent links:*   [SCI-10](L2.markdown#1-sci-10-) 
+
+1 Tech-17 
+=========
+
+*HardSwitch*
+
+The system shall have an independent hard power switch that can be
+locked by workers.
+
+*Parent links:*   [SCI-12](L2.markdown#1-sci-12-) 
+
+1 Tech-18 
+=========
+
+*StopButtons*
+
+The system shall have 6 mushroom stop buttons located around the cabin
+and platform.
+
+*Parent links:*   [SCI-12](L2.markdown#1-sci-12-) 
+
+1 Tech-19 
+=========
+
+*MotorStow*
+
+The system shall utilize a motorized stow pin for emergency.
+
+*Parent links:*   [SCI-11](L2.markdown#1-sci-11-) 
+
+1 Tech-20 
+=========
+
+*PointingRun*
+
+The system shall run an automated, seasonal \"pointing run\" to make
+pointing corrections and calibrate instrument.
+
+*Parent links:*   [SCI-13](L2.markdown#1-sci-13-) 
+
+1 Tech-21 
+=========
+
+*MotorRPM*
+
+The system shall contain an elevation motor which must reach \>62 RPM.
+
+*Parent links:*   [SCI-14](L2.markdown#1-sci-14-) 
+
+1 Tech-22 
+=========
+
+*AzimuthAngular*
+
+Something about azimuth angular speed here-see Justin\'s trace matrix.
+
+*Parent links:*   [SCI-14](L2.markdown#1-sci-14-) 

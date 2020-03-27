@@ -1,0 +1,15 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- SCI-11: 11e24e1342a3800d87f15f6a64386f35
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 8412de8f948f11318f6c39984d4711ea
+short name: MotorStow
+text: |
+  The system shall utilize a motorized stow pin for emergency.
+verification plan: ''

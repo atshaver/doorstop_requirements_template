@@ -7,8 +7,9 @@ mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: 0d6c52fe65c60e9e6a48c6c1b189a3e7
-short name: User requirement
+reviewed: 43ce0c4621b37882bab2c76aaff1ed1d
+short name: Astro
 text: |
-  Mission level requirement C
+  The system shall provide outreach level astronomical observation
+  capabilities.
 verification plan: ''

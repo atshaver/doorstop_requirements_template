@@ -1,0 +1,16 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- SCI-12: f024569beac892250802e2e048b5d2a9
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 7008a670ba6438ae586565503ddd9b3f
+short name: StopButtons
+text: |
+  The system shall have 6 mushroom stop buttons located around the cabin and
+  platform.
+verification plan: ''

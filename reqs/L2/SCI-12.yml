@@ -1,0 +1,16 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- Mission-04: 76773bf89dfae945d28a960935133c09
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 25b63c1839ae5bab2bc9bd79b8ab8bd3
+short name: MovingParts
+text: |
+  The system shall have the capability to lock all moving parts during
+  maintenance or emergency.
+verification plan: ''

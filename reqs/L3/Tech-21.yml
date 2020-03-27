@@ -1,0 +1,15 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- SCI-14: 33b5fdd53d66a2ea642fbdbc1f13b2fb
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: ac71514fd186a663f3b6cc4d765a1568
+short name: MotorRPM
+text: |
+  The system shall contain an elevation motor which must reach >62 RPM.
+verification plan: ''

@@ -1,0 +1,15 @@
+active: true
+additional notes: originally better than 30
+derived: false
+level: 1
+links:
+- SCI-09: 4e2515bd1db53b33a2f72ca03e4c8f16
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 0aeca46c9608455aaf62a872170532f9
+short name: 40Micron
+text: |
+  The system shall contain 40 micron RMS reflector surface accuracy.
+verification plan: ''

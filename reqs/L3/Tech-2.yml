@@ -3,14 +3,13 @@ additional notes: ''
 derived: false
 level: 1
 links:
-- SCI-02: 6ca9c82ddd547ecb4400af37201b5113
-- SCI-03: 66dc99b21505632b514edb24dbc4ff15
+- SCI-08: f979f2e376a0a779f2e3c5898065b084
 mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: 408d1c6beb848eae444ed7acf033e7d9
-short name: Instrument Beta
+reviewed: d92bf580cfcb6ee0514800b7a8db1a2d
+short name: XYZCoord
 text: |
-  Technical instrument requirement Beta
+  The system shall accept coordinates in the XYZ Coordinate format.
 verification plan: ''

@@ -1,0 +1,16 @@
+active: true
+additional notes: |
+  This is the "optional" astronomy outreach that can be added later.
+derived: false
+level: 1
+links:
+- SCI-02: 9b2ce44098783d6d07c786fc45e984cb
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 1bc0d7b6acd35f43d631a502959c1d0b
+short name: Outreach
+text: |
+  The system shall have capability to attach receiver for outreach purposes.
+verification plan: ''

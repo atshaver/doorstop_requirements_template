@@ -8,8 +8,9 @@ mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: f999ac83aaf49e1894bcc4a70bbfc0b9
-short name: TrackingAcc
+reviewed: 150b179b8929a27a13320a007e4ba73c
+short name: LockAntenna
 text: |
-  The system shall maintain a tracking accuracy of 5 arcsec.
+  The system shall have a mechanism to lock position of antenna when desired
+  coordinates found.
 verification plan: ''

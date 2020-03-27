@@ -3,14 +3,14 @@ additional notes: ''
 derived: false
 level: 1
 links:
-- Mission-01: f7688097a623210af03e791fb965816b
 - Mission-02: a5cc87db67e3394f7c8578f47f231821
 mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: abc95452aa953aac0f62356e9fbf4124
-short name: Wavelength
+reviewed: d8d8175563bda6fba4bbc8e4e924f88a
+short name: TrackLocation
 text: |
-  The system shall observe signals in the X-band(10 GHz).
+  The system shall collect information on the antenna's position even when it
+  is not pointing to a degree of accuracy within 1 arcsec.
 verification plan: ''

@@ -1,0 +1,15 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- SCI-07: 2ad1a23ffe95e66bc4e7ab59249fac23
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 71340a323724fb095a84e0ca7b05526f
+short name: Cooler
+text: |
+  The system shall use a helium cooler to cool 1 and 3 mm receivers.
+verification plan: ''

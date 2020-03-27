@@ -8,9 +8,9 @@ mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: a8fac7ba9bf7c6b712983736c08f8dbe
-short name: ElevationMax
+reviewed: 846cbbb1cfa28ca08ffdf761dadbc558
+short name: Track0.1Deg/Sec
 text: |
-  The system shall be able to observe objects located at up to 80 degrees
-  elevation.
+  The system shall be able to track at 0.1 degrees per second, elevation
+  angular speed 0.1 degrees/second.
 verification plan: ''

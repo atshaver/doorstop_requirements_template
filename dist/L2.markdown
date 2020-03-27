@@ -1,27 +1,161 @@
-Science requirement I 1 SCI-01 
-==============================
+1 SCI-01 
+========
 
-Mission shall be able to perform example measurement one
+*Wavelength*
 
-*Parent links:*   [Mission-02](L1.markdown#1-mission-02-) 
-
-*Child links:*   [Tech-1](L3.markdown#1-tech-1-) 
-
-Science requirement II 1 SCI-02 
-===============================
-
-Mission shall be able to perform example measurement two
-
-*Parent links:*   [Mission-02](L1.markdown#1-mission-02-) 
-
-*Child links:*   [Tech-2](L3.markdown#1-tech-2-) ,  [Tech-3](L3.markdown#1-tech-3-) 
-
-Science requirement III 1 SCI-03 
-================================
-
-Mission shall be able to perform example measurement three
+The system shall observe signals in the X-band(10 GHz).
 
 *Parent links:*   [Mission-01](L1.markdown#1-mission-01-) ,
-  [Mission-03](L1.markdown#1-mission-03-) 
+  [Mission-02](L1.markdown#1-mission-02-) 
 
-*Child links:*   [Tech-2](L3.markdown#1-tech-2-) 
+*Child links:*   [Tech-7](L3.markdown#1-tech-7-) 
+
+1 SCI-02 
+========
+
+*Receiver*
+
+The system shall use a receiver for astronomical observation.
+
+*Parent links:*   [Mission-03](L1.markdown#1-mission-03-) 
+
+*Child links:*   [Tech-8](L3.markdown#1-tech-8-) 
+
+1 SCI-03 
+========
+
+*ElevationMax*
+
+The system shall be able to observe objects located at up to 80 degrees
+elevation.
+
+*Parent links:*   [Mission-01](L1.markdown#1-mission-01-) 
+
+*Child links:*   [Tech-9](L3.markdown#1-tech-9-) 
+
+1 SCI-04 
+========
+
+*Control System*
+
+The system shall be equipped with a modern control system.
+
+*Parent links:*   [Mission-01](L1.markdown#1-mission-01-) 
+
+*Child links:*   [Tech-10](L3.markdown#1-tech-10-) 
+
+1 SCI-05 
+========
+
+*AirLock*
+
+The system shall deploy an air lock on cabin door if left open.
+
+*Parent links:*   [Mission-04](L1.markdown#1-mission-04-) 
+
+*Child links:*   [Tech-11](L3.markdown#1-tech-11-) ,  [Tech-12](L3.markdown#1-tech-12-) 
+
+1 SCI-06 
+========
+
+*Pointing*
+
+The system shall be able to point to a specified point in the sky.
+
+*Parent links:*   [Mission-01](L1.markdown#1-mission-01-) 
+
+*Child links:*   [Tech-3](L3.markdown#1-tech-3-) ,  [Tech-4](L3.markdown#1-tech-4-) ,
+  [Tech-5](L3.markdown#1-tech-5-) 
+
+1 SCI-07 
+========
+
+*1/3mmReceiver*
+
+The system shall safely observe by cooling 1 and 3 mm receivers.
+
+*Parent links:*   [Mission-04](L1.markdown#1-mission-04-) 
+
+*Child links:*   [Tech-6](L3.markdown#1-tech-6-) 
+
+1 SCI-08 
+========
+
+*Stream*
+
+The system shall accept a stream of manual or automated pointing
+commands.
+
+*Parent links:*   [Mission-01](L1.markdown#1-mission-01-) 
+
+*Child links:*   [Tech-1](L3.markdown#1-tech-1-) ,  [Tech-2](L3.markdown#1-tech-2-) 
+
+1 SCI-09 
+========
+
+*1&3*
+
+The system shall observe in the 1 mm and 3 mm range.
+
+*Parent links:*   [Mission-03](L1.markdown#1-mission-03-) 
+
+*Child links:*   [Tech-13](L3.markdown#1-tech-13-) 
+
+1 SCI-10 
+========
+
+*AvoidLoads*
+
+The system shall avoid dangerous loads.
+
+*Parent links:*   [Mission-04](L1.markdown#1-mission-04-) 
+
+*Child links:*   [Tech-14](L3.markdown#1-tech-14-) ,  [Tech-15](L3.markdown#1-tech-15-) ,
+  [Tech-16](L3.markdown#1-tech-16-) 
+
+1 SCI-11 
+========
+
+*Stowable*
+
+The system shall have a stowable antenna for power outage occurrence.
+
+*Parent links:*   [Mission-04](L1.markdown#1-mission-04-) 
+
+*Child links:*   [Tech-19](L3.markdown#1-tech-19-) 
+
+1 SCI-12 
+========
+
+*MovingParts*
+
+The system shall have the capability to lock all moving parts during
+maintenance or emergency.
+
+*Parent links:*   [Mission-04](L1.markdown#1-mission-04-) 
+
+*Child links:*   [Tech-17](L3.markdown#1-tech-17-) ,  [Tech-18](L3.markdown#1-tech-18-) 
+
+1 SCI-13 
+========
+
+*TrackLocation*
+
+The system shall collect information on the antenna\'s position even
+when it is not pointing to a degree of accuracy within 1 arcsec.
+
+*Parent links:*   [Mission-02](L1.markdown#1-mission-02-) 
+
+*Child links:*   [Tech-20](L3.markdown#1-tech-20-) 
+
+1 SCI-14 
+========
+
+*Track0.1Deg/Sec*
+
+The system shall be able to track at 0.1 degrees per second, elevation
+angular speed 0.1 degrees/second.
+
+*Parent links:*   [Mission-01](L1.markdown#1-mission-01-) 
+
+*Child links:*   [Tech-21](L3.markdown#1-tech-21-) ,  [Tech-22](L3.markdown#1-tech-22-) 

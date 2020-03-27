@@ -1,0 +1,15 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- Mission-04: 76773bf89dfae945d28a960935133c09
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 821ec129a585d2b2f85ea67fa46e7b5e
+short name: AirLock
+text: |
+  The system shall deploy an air lock on cabin door if left open.
+verification plan: ''

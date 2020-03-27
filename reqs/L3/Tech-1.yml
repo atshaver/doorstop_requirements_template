@@ -3,13 +3,13 @@ additional notes: ''
 derived: false
 level: 1
 links:
-- SCI-01: f9801348ce3b33579655fabb64aa6d0f
+- SCI-08: f979f2e376a0a779f2e3c5898065b084
 mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: e46d304c1cf8716689a2a16a0fedee90
-short name: Instrument Alpha
+reviewed: c32a04e19be9502e62183a68df281662
+short name: Two-Line
 text: |
-  Technical instrument requirement Alpha
+  The system shall accept coordinates in the two-line element format.
 verification plan: ''

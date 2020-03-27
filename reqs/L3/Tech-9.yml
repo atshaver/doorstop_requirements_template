@@ -1,0 +1,16 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- SCI-03: 826fec62d9440825c3cad0bb815c3f82
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: 2603cba8a083fd0f388576d5b6c9c39b
+short name: Mechanismfor80
+text: |
+  The system shall have a driving mechanism to point the antenna up to 80 deg
+  elevation.
+verification plan: ''

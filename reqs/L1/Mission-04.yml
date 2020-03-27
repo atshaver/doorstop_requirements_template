@@ -7,8 +7,8 @@ mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: f7688097a623210af03e791fb965816b
-short name: LEO
+reviewed: 76773bf89dfae945d28a960935133c09
+short name: Safety
 text: |
-  The system shall provide capability to observe Low-Earth orbiting Objects.
+  The system shall cause no damage to itself or its users.
 verification plan: ''

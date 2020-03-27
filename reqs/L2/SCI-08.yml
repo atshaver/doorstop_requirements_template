@@ -8,9 +8,8 @@ mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: a8fac7ba9bf7c6b712983736c08f8dbe
-short name: ElevationMax
+reviewed: ff62b16a17831497a6de16f0d498f8ee
+short name: Stream
 text: |
-  The system shall be able to observe objects located at up to 80 degrees
-  elevation.
+  The system shall accept a stream of manual or automated pointing commands.
 verification plan: ''

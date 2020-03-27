@@ -3,13 +3,13 @@ additional notes: ''
 derived: false
 level: 1
 links:
-- Mission-03: 43ce0c4621b37882bab2c76aaff1ed1d
+- SCI-01: ecfb54f7c0c79c1ace36a690b6c52d84
 mission success criteria: ''
 normative: true
 rationale: ''
 ref: ''
-reviewed: cce9a0fe3dfe3f5621454e69fe0effb0
+reviewed: 8259d5d2b256544e8f7ed953659a6bfd
 short name: Receiver
 text: |
-  The system shall use a receiver for astronomical observation.
+  The system shall use an appropriate receiver for 10 GHz observation.
 verification plan: ''

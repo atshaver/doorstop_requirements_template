@@ -1,0 +1,16 @@
+active: true
+additional notes: ''
+derived: false
+level: 1
+links:
+- SCI-10: c7e895b87e759e4120a8d803cdb3c9ff
+mission success criteria: ''
+normative: true
+rationale: ''
+ref: ''
+reviewed: cd9e9814c92ad98de89f1b7810f10495
+short name: CurrentLimits
+text: |
+  The system shall have motor current(torque) limits that are
+  monitored/enforced by controlling computer.
+verification plan: ''
