@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 7595c4ae9799b0eca81cf2dba9167cea
-short name: Control System
+short name: Modern Control System
 text: |
   The system shall be equipped with a modern control system.
 verification plan: ''

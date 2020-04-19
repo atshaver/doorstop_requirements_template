@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 25b63c1839ae5bab2bc9bd79b8ab8bd3
-short name: MovingParts
+short name: Capable Lock Moving Parts
 text: |
   The system shall have the capability to lock all moving parts during
   maintenance or emergency.

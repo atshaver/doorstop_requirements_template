@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: ea40ac3f595371bb92ddde9cf7b1cb27
-short name: LockDoor
+short name: Lock Door Position
 text: |
   The system shall have a mechanism to lock door position.
 verification plan: ''

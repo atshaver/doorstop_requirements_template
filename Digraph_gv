@@ -1,0 +1,127 @@
+// The Requirements
+digraph {
+	node [color=lightblue2 fontsize=55 style=filled]
+rankdir=LR
+ratio=.65
+size="75,50"
+rank=min
+dpi = 25
+	"Mission-01" [label="Mission-01
+LEO Observations" color=gray95]
+	"Mission-02" [label="Mission-02
+Downlink Capable" color=gray95]
+	"Mission-03" [label="Mission-03
+Astro Observations" color=gray95]
+	"Mission-04" [label="Mission-04
+Safety" color=gray95]
+	"SCI-01" [label="SCI-01
+Observe in X-Band" color=gray88]
+	"Mission-01" -> "SCI-01" [color=black penwidth=7.744067519636624 style=solid]
+	"Mission-02" -> "SCI-01" [color=black penwidth=8.575946831862097 style=solid]
+	"SCI-02" [label="SCI-02
+Receiver for Astro. Observation" color=gray88]
+	"Mission-03" -> "SCI-02" [color=blue penwidth=8.01381688035822 style=solid]
+	"SCI-03" [label="SCI-03
+Maximum Elevation 80 Deg." color=gray88]
+	"Mission-01" -> "SCI-03" [color=chocolate penwidth=7.724415914984484 style=solid]
+	"SCI-04" [label="SCI-04
+Modern Control System" color=gray88]
+	"Mission-01" -> "SCI-04" [color=crimson penwidth=7.118273996694524 style=solid]
+	"SCI-05" [label="SCI-05
+Airlock for Cabin Door" color=gray88]
+	"Mission-04" -> "SCI-05" [color=orchid penwidth=8.22947056533328 style=solid]
+	"SCI-06" [label="SCI-06
+Point to Specific Point" color=gray88]
+	"Mission-01" -> "SCI-06" [color=green penwidth=7.187936056313463 style=solid]
+	"SCI-07" [label="SCI-07
+1/3mmReceiver Cooling" color=gray88]
+	"Mission-04" -> "SCI-07" [color=darkgreen penwidth=9.458865003910399 style=solid]
+	"SCI-08" [label="SCI-08
+Accept Stream Commands" color=gray88]
+	"Mission-01" -> "SCI-08" [color=khaki penwidth=9.818313802505147 style=solid]
+	"SCI-09" [label="SCI-09
+Observe in 1&3 mm" color=gray88]
+	"Mission-03" -> "SCI-09" [color=violet penwidth=6.917207594128889 style=solid]
+	"SCI-10" [label="SCI-10
+Avoid Dangerous Loads" color=gray88]
+	"Mission-04" -> "SCI-10" [color=purple penwidth=8.958625190413322 style=solid]
+	"SCI-11" [label="SCI-11
+Stowable Antenna for Outage" color=gray88]
+	"Mission-04" -> "SCI-11" [color=orange penwidth=7.644474598764522 style=solid]
+	"SCI-12" [label="SCI-12
+Capable Lock Moving Parts" color=gray88]
+	"Mission-04" -> "SCI-12" [color=lightblue2 penwidth=7.840222805469661 style=solid]
+	"SCI-13" [label="SCI-13
+Track Location at all Times" color=gray88]
+	"Mission-02" -> "SCI-13" [color=black penwidth=9.627983191463304 style=solid]
+	"SCI-14" [label="SCI-14
+Track 0.1 Deg/Sec" color=gray88]
+	"Mission-01" -> "SCI-14" [color=blue penwidth=5.355180290989435 style=solid]
+	"Tech-1" [label="Tech-1
+Accept Two-Line Element" color=gray79]
+	"SCI-08" -> "Tech-1" [color=black penwidth=5.435646498507704 style=solid]
+	"Tech-2" [label="Tech-2
+Accept XYZCoord" color=gray79]
+	"SCI-08" -> "Tech-2" [color=blue penwidth=5.101091987201628 style=solid]
+	"Tech-3" [label="Tech-3
+Tracking Acc. 5 arcsec" color=gray79]
+	"SCI-06" -> "Tech-3" [color=chocolate penwidth=9.16309922773969 style=solid]
+	"Tech-4" [label="Tech-4
+BlindPointing 4-10 arcsec" color=gray79]
+	"SCI-06" -> "Tech-4" [color=crimson penwidth=8.890783754749252 style=solid]
+	"Tech-5" [label="Tech-5
+Lock Antenna Command" color=gray79]
+	"SCI-06" -> "Tech-5" [color=orchid penwidth=9.350060741234095 style=solid]
+	"Tech-6" [label="Tech-6
+Helium Cooler" color=gray79]
+	"SCI-07" -> "Tech-6" [color=green penwidth=9.89309171116382 style=solid]
+	"Tech-7" [label="Tech-7
+Receiver for 10 GHz" color=gray79]
+	"SCI-01" -> "Tech-7" [color=darkgreen penwidth=8.995792821083619 style=solid]
+	"Tech-8" [label="Tech-8
+Attach Receiver for Outreach" color=gray79]
+	"SCI-02" -> "Tech-8" [color=khaki penwidth=7.30739681126466 style=solid]
+	"Tech-9" [label="Tech-9
+Mechanism for 80" color=gray79]
+	"SCI-03" -> "Tech-9" [color=violet penwidth=8.902645881432278 style=solid]
+	"Tech-10" [label="Tech-10
+Edit" color=gray79]
+	"SCI-04" -> "Tech-10" [color=purple penwidth=5.591372129344666 style=solid]
+	"Tech-11" [label="Tech-11
+Detect Door Position" color=gray79]
+	"SCI-05" -> "Tech-11" [color=orange penwidth=8.19960510663762 style=solid]
+	"Tech-12" [label="Tech-12
+Lock Door Position" color=gray79]
+	"SCI-05" -> "Tech-12" [color=lightblue2 penwidth=5.716766437045232 style=solid]
+	"Tech-13" [label="Tech-13
+40Micron RMS Accuracy" color=gray79]
+	"SCI-09" -> "Tech-13" [color=black penwidth=9.723344585247919 style=solid]
+	"Tech-14" [label="Tech-14
+Stall Sensor" color=gray79]
+	"SCI-10" -> "Tech-14" [color=blue penwidth=7.6092416087503585 style=solid]
+	"Tech-15" [label="Tech-15
+Current Limits by Computer" color=gray79]
+	"SCI-10" -> "Tech-15" [color=chocolate penwidth=7.073309699952618 style=solid]
+	"Tech-16" [label="Tech-16
+Detect Interfering Oscillation" color=gray79]
+	"SCI-10" -> "Tech-16" [color=crimson penwidth=6.3227780605231345 style=solid]
+	"Tech-17" [label="Tech-17
+Hard Power Switch" color=gray79]
+	"SCI-12" -> "Tech-17" [color=orchid penwidth=8.871168447171083 style=solid]
+	"Tech-18" [label="Tech-18
+6 Stop Buttons" color=gray79]
+	"SCI-12" -> "Tech-18" [color=green penwidth=7.280751661082743 style=solid]
+	"Tech-19" [label="Tech-19
+Motor Stow Pin" color=gray79]
+	"SCI-11" -> "Tech-19" [color=darkgreen penwidth=7.842169744343242 style=solid]
+	"Tech-20" [label="Tech-20
+Seasonal Pointing Run" color=gray79]
+	"SCI-13" -> "Tech-20" [color=khaki penwidth=5.093949002181776 style=solid]
+	"Tech-21" [label="Tech-21
+Motor RPM>62" color=gray79]
+	"SCI-14" -> "Tech-21" [color=violet penwidth=8.088177485379386 style=solid]
+	"Tech-22" [label="Tech-22
+Azimuth, Angular" color=gray79]
+	"SCI-14" -> "Tech-22" [color=purple penwidth=8.060478613612107 style=solid]
+fontsize=20
+}

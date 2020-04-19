@@ -10,7 +10,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: abc95452aa953aac0f62356e9fbf4124
-short name: Wavelength
+short name: Observe in X-Band
 text: |
   The system shall observe signals in the X-band(10 GHz).
 verification plan: ''

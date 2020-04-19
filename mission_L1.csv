@@ -1,5 +1,5 @@
 uid,level,text,links,short name,additional notes,mission success criteria,rationale,reviewed,verification plan
-Mission-01,1,The system shall provide capability to observe Low-Earth orbiting Objects.,,LEO,,,,,
-Mission-02,1,The system shall downlink data from satellites.,,Downlink,,,,,
-Mission-03,1,The system shall provide outreach level astronomical observation capabilities.,,Astro,,,,,
+Mission-01,1,The system shall provide capability to observe Low-Earth orbiting Objects.,,LEO Observations,,,,,
+Mission-02,1,The system shall downlink data from satellites.,,Downlink Capable,,,,,
+Mission-03,1,The system shall provide outreach level astronomical observation capabilities.,,Astro Observations,,,,,
 Mission-04,1,The system shall cause no damage to itself or its users.,,Safety,,,,,

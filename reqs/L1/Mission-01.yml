@@ -8,7 +8,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: f7688097a623210af03e791fb965816b
-short name: LEO
+short name: LEO Observations
 text: |
   The system shall provide capability to observe Low-Earth orbiting Objects.
 verification plan: ''

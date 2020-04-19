@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 272ab2411a172a5f724225e3775b443c
-short name: DetectDoor
+short name: Detect Door Position
 text: |
   The system shall have a mechanism to detect open door.
 verification plan: ''

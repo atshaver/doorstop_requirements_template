@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 107f333f16df1d52a4568d9cce5b25bc
-short name: StallSensor
+short name: Stall Sensor
 text: |
   The system shall utilize stall sensors.
 verification plan: ''

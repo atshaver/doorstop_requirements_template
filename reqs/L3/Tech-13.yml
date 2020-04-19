@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 0aeca46c9608455aaf62a872170532f9
-short name: 40Micron
+short name: 40Micron RMS Accuracy
 text: |
   The system shall contain 40 micron RMS reflector surface accuracy.
 verification plan: ''

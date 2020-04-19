@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 51a01d7f6d883bf2218fc252265d3d51
-short name: HardSwitch
+short name: Hard Power Switch
 text: |
   The system shall have an independent hard power switch that can be locked by
   workers.

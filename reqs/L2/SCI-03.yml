@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: a8fac7ba9bf7c6b712983736c08f8dbe
-short name: ElevationMax
+short name: Maximum Elevation 80 Deg.
 text: |
   The system shall be able to observe objects located at up to 80 degrees
   elevation.

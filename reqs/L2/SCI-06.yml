@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: d96ced794a466e383f466f6dd2bf49c3
-short name: Pointing
+short name: Point to Specific Point
 text: |
   The system shall be able to point to a specified point in the sky.
 verification plan: ''

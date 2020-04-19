@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 2603cba8a083fd0f388576d5b6c9c39b
-short name: Mechanismfor80
+short name: Mechanism for 80
 text: |
   The system shall have a driving mechanism to point the antenna up to 80 deg
   elevation.

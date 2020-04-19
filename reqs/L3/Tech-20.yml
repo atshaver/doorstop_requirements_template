@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 74a819df886596b1aaacf8e291c923c7
-short name: PointingRun
+short name: Seasonal Pointing Run
 text: |
   The system shall run an automated, seasonal "pointing run" to make pointing
   corrections and calibrate instrument.

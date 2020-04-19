@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 0e77e8ee299b0d5f4b6426b82e0d1e71
-short name: AvoidLoads
+short name: Avoid Dangerous Loads
 text: |
   The system shall avoid dangerous loads.
 verification plan: ''

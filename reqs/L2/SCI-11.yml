@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 248321209b82a4e9e92bfa1d4ea3429d
-short name: Stowable
+short name: Stowable Antenna for Outage
 text: |
   The system shall have a stowable antenna for power outage occurrence.
 verification plan: ''

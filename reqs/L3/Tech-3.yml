@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: f999ac83aaf49e1894bcc4a70bbfc0b9
-short name: TrackingAcc
+short name: Tracking Acc. 5 arcsec
 text: |
   The system shall maintain a tracking accuracy of 5 arcsec.
 verification plan: ''

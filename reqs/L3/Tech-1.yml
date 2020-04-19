@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: c32a04e19be9502e62183a68df281662
-short name: Two-Line
+short name: Accept Two-Line Element
 text: |
   The system shall accept coordinates in the two-line element format.
 verification plan: ''

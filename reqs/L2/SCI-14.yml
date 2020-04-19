@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 846cbbb1cfa28ca08ffdf761dadbc558
-short name: Track0.1Deg/Sec
+short name: Track 0.1 Deg/Sec
 text: |
   The system shall be able to track at 0.1 degrees per second, elevation
   angular speed 0.1 degrees/second.

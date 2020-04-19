@@ -1,7 +1,7 @@
 1 Mission-01 
 ============
 
-*LEO*
+*LEO Observations*
 
 The system shall provide capability to observe Low-Earth orbiting
 Objects.
@@ -13,7 +13,7 @@ Objects.
 1 Mission-02 
 ============
 
-*Downlink*
+*Downlink Capable*
 
 The system shall downlink data from satellites.
 
@@ -22,7 +22,7 @@ The system shall downlink data from satellites.
 1 Mission-03 
 ============
 
-*Astro*
+*Astro Observations*
 
 The system shall provide outreach level astronomical observation
 capabilities.

@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 71340a323724fb095a84e0ca7b05526f
-short name: Cooler
+short name: Helium Cooler
 text: |
   The system shall use a helium cooler to cool 1 and 3 mm receivers.
 verification plan: ''

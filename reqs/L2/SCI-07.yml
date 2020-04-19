@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 5b31451131efa89897774bbd2e33bb00
-short name: 1/3mmReceiver
+short name: 1/3mmReceiver Cooling
 text: |
   The system shall safely observe by cooling 1 and 3 mm receivers.
 verification plan: ''

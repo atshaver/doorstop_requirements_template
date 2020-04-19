@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: cd9e9814c92ad98de89f1b7810f10495
-short name: CurrentLimits
+short name: Current Limits by Computer
 text: |
   The system shall have motor current(torque) limits that are
   monitored/enforced by controlling computer.

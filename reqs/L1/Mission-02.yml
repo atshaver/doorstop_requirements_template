@@ -8,7 +8,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: a5cc87db67e3394f7c8578f47f231821
-short name: Downlink
+short name: Downlink Capable
 text: |
   The system shall downlink data from satellites.
 verification plan: ''

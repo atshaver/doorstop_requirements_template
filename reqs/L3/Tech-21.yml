@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: ac71514fd186a663f3b6cc4d765a1568
-short name: MotorRPM
+short name: Motor RPM>62
 text: |
   The system shall contain an elevation motor which must reach >62 RPM.
 verification plan: ''

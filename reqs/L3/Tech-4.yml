@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: a3424ec05bc647921bc79d70555b946d
-short name: BlindPoint
+short name: BlindPointing 4-10 arcsec
 text: |
   The system shall maintain a blind pointing accuracy of 4-10 arcsec.
 verification plan: ''

@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: d8d8175563bda6fba4bbc8e4e924f88a
-short name: TrackLocation
+short name: Track Location at all Times
 text: |
   The system shall collect information on the antenna's position even when it
   is not pointing to a degree of accuracy within 1 arcsec.

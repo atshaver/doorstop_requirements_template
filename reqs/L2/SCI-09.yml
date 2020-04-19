@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 1b590c6616eef15d087ddce29e131d8c
-short name: 1&3
+short name: Observe in 1&3 mm
 text: |
   The system shall observe in the 1 mm and 3 mm range.
 verification plan: ''

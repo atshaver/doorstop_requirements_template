@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 821ec129a585d2b2f85ea67fa46e7b5e
-short name: AirLock
+short name: Airlock for Cabin Door
 text: |
   The system shall deploy an air lock on cabin door if left open.
 verification plan: ''

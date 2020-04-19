@@ -8,7 +8,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 43ce0c4621b37882bab2c76aaff1ed1d
-short name: Astro
+short name: Astro Observations
 text: |
   The system shall provide outreach level astronomical observation
   capabilities.

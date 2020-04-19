@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: ff62b16a17831497a6de16f0d498f8ee
-short name: Stream
+short name: Accept Stream Commands
 text: |
   The system shall accept a stream of manual or automated pointing commands.
 verification plan: ''

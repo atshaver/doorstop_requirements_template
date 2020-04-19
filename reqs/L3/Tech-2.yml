@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: d92bf580cfcb6ee0514800b7a8db1a2d
-short name: XYZCoord
+short name: Accept XYZCoord
 text: |
   The system shall accept coordinates in the XYZ Coordinate format.
 verification plan: ''

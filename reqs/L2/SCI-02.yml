@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: cce9a0fe3dfe3f5621454e69fe0effb0
-short name: Receiver
+short name: Receiver for Astro. Observation
 text: |
   The system shall use a receiver for astronomical observation.
 verification plan: ''

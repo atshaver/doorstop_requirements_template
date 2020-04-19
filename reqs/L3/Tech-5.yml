@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 150b179b8929a27a13320a007e4ba73c
-short name: LockAntenna
+short name: Lock Antenna Command
 text: |
   The system shall have a mechanism to lock position of antenna when desired
   coordinates found.

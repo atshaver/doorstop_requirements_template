@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 8412de8f948f11318f6c39984d4711ea
-short name: MotorStow
+short name: Motor Stow Pin
 text: |
   The system shall utilize a motorized stow pin for emergency.
 verification plan: ''

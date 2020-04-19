@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 1ab26b95e93704a3542966df69bbccfe
-short name: OscDetect
+short name: Detect Interfering Oscillation
 text: |
   The system shall have soft servo oscillation detection to avoid motion that
   excites resonant frequencies.

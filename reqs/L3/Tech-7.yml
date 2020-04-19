@@ -9,7 +9,7 @@ normative: true
 rationale: ''
 ref: ''
 reviewed: 8259d5d2b256544e8f7ed953659a6bfd
-short name: Receiver
+short name: Receiver for 10 GHz
 text: |
   The system shall use an appropriate receiver for 10 GHz observation.
 verification plan: ''
